@@ -1,0 +1,58 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6f4e37,100:c8a27a&height=180&section=header&text=Holaa,%20Welcome%20to%20My%20GitHub!&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
+</p>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=900&duration=2800&color=C8A27A&center=true&vCenter=true&width=820&lines=Data+Scientist;AI+%2F+ML+Engineer;Machine+Learning+%26+Generative+AI;NLP+%7C+LLMs+%7C+RAG+%7C+Computer+Vision;FastAPI+%7C+LangChain+%7C+Transformers&stroke=3B2A20&strokeWidth=0.5" />
+</p>
+<p align="center" style="margin-top:0px; margin-bottom:6px;">
+  <b>Building Intelligent AI Systems with Strong Mathematical Foundations</b>
+</p>
+<p align="left" style="margin-top: 6px;">
+  <img src="https://komarev.com/ghpvc/?username=nasyw4&label=Profile%20views&color=6f4e37&style=flat" alt="nasyw4" />
+</p>
+
+---
+
+- 🔭 Currently working on **RAG-based Chatbots & Intelligent AI Systems**  
+  using **FastAPI, LangChain, and Groq/OpenAI**
+- 🌱 Currently learning **Advanced NLP, LLM Optimization, and MLOps**
+- 💬 Ask me about **Machine Learning, Deep Learning, LSTM/GRU, RAG, LangChain, FastAPI, NLP**
+- 📫 Reach me at **your-email@example.com** ← *ganti ini*
+
+---
+
+## Connect with Me
+
+<p align="left">
+  <a href="https://linkedin.com/in/your-linkedin" target="_blank"> <!-- ganti your-linkedin -->
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+  </a>
+  <a href="https://kaggle.com/your-kaggle" target="_blank"> <!-- ganti your-kaggle -->
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" height="30" width="40" />
+  </a>
+  <a href="https://instagram.com/your-instagram" target="_blank"> <!-- ganti your-instagram -->
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
+  </a>
+</p>
+
+---
+
+## Languages & Tools
+
+<p align="center" style="display: flex; justify-content: space-between; align-items: center; width: 100%;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" height="40"/>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:c8a27a,100:6f4e37&height=120&section=footer" />
+</p>
