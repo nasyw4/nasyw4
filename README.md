@@ -80,7 +80,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nasyw4&show_icons=true&theme=gruvbox&hide_border=true&title_color=90e0ef&icon_color=6f4e37&text_color=90e0ef&bg_color=1a1a1a" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=nasyw4&show_icons=true&theme=gruvbox&hide_border=true&title_color=90e0ef&icon_color=0077b6&text_color=90e0ef&bg_color=1a1a1a" height="160"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nasyw4&layout=compact&theme=gruvbox&hide_border=true&title_color=90e0ef&text_color=90e0ef&bg_color=1a1a1a" height="160"/>
 </p>
 <p align="center">
