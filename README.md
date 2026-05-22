@@ -2,13 +2,13 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077b6,100:90e0ef&height=180&section=header&text=Holaa,%20Welcome%20to%20My%20GitHub!&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
 </p>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=900&duration=2800&color=C8A27A&center=true&vCenter=true&width=820&lines=Data+Scientist;AI+%2F+ML+Engineer;NLP+%7C+LLM+Integration+%7C+RAG;Generative+AI+%7C+BERTopic+%7C+Transformers;Computer+Vision+%7C+Signal+Processing&stroke=3B2A20&strokeWidth=0.5" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=900&duration=2800&color=90e0ef&center=true&vCenter=true&width=820&lines=Data+Scientist;AI+%2F+ML+Engineer;NLP+%7C+LLM+Integration+%7C+RAG;Generative+AI+%7C+BERTopic+%7C+Transformers;Computer+Vision+%7C+Signal+Processing&stroke=3B2A20&strokeWidth=0.5" />
 </p>
 <p align="center" style="margin-top:0px; margin-bottom:6px;">
   <b>Fresh Graduate · Building Intelligent AI Systems</b>
 </p>
 <p align="left" style="margin-top: 6px;">
-  <img src="https://komarev.com/ghpvc/?username=nasyw4&label=Profile%20views&color=6f4e37&style=flat" alt="nasyw4" />
+  <img src="https://komarev.com/ghpvc/?username=nasyw4&label=Profile%20views&color=90e0ef&style=flat" alt="nasyw4" />
 </p>
 
 ---
@@ -80,11 +80,11 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nasyw4&show_icons=true&theme=gruvbox&hide_border=true&title_color=c8a27a&icon_color=6f4e37&text_color=c8a27a&bg_color=1a1a1a" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nasyw4&layout=compact&theme=gruvbox&hide_border=true&title_color=c8a27a&text_color=c8a27a&bg_color=1a1a1a" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=nasyw4&show_icons=true&theme=gruvbox&hide_border=true&title_color=90e0ef&icon_color=6f4e37&text_color=90e0ef&bg_color=1a1a1a" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nasyw4&layout=compact&theme=gruvbox&hide_border=true&title_color=90e0ef&text_color=90e0ef&bg_color=1a1a1a" height="160"/>
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nasyw4&theme=dark&hide_border=true&ring=c8a27a&fire=6f4e37&currStreakLabel=c8a27a&background=1a1a1a" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nasyw4&theme=dark&hide_border=true&ring=90e0ef&fire=6f4e37&currStreakLabel=90e0ef&background=1a1a1a" />
 </p>
 
 <p align="center">
