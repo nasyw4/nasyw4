@@ -13,9 +13,9 @@
 
 ---
 
-- 🔭 Currently working on **Agentic PPT Report Generation (Nexus Report)** & **NER / Sentiment Models**  
-  at **Nolimit Teknologi Indonesia** using **FastAPI, BERTopic, LangChain, and OpenAI**
-- 🌱 Currently learning **LLM Fine-tuning (ModernBERT, IndoBERT), MLOps, and Kafka Integration**
+- 🔭 Experienced working on **Agentic PPT Report Generation** & **NER / Whostation Models (Inference & Runner Daily)**  
+  at **Nolimit Teknologi Indonesia** using **FastAPI, BERTopic, LLM (OpenAI), and Server Linux**
+- 🌱 Currently learning **AI/ML, LLM, Agentic AI, MLOps, and Kafka Integration, and Database**
 - 💬 Ask me about **NLP, NER, Sentiment Analysis, BERTopic, RAG, LLM Integration, Computer Vision (YOLOv8), EEG Signal Processing**
 - 📫 Reach me at **nasywaraihanah@gmail.com**
 
