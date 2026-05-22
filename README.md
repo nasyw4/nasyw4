@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6f4e37,100:c8a27a&height=180&section=header&text=Holaa,%20Welcome%20to%20My%20GitHub!&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077b6,100:90e0ef&height=180&section=header&text=Holaa,%20Welcome%20to%20My%20GitHub!&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
 </p>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=900&duration=2800&color=C8A27A&center=true&vCenter=true&width=820&lines=Data+Scientist;AI+%2F+ML+Engineer;NLP+%7C+LLM+Integration+%7C+RAG;Generative+AI+%7C+BERTopic+%7C+Transformers;Computer+Vision+%7C+Signal+Processing&stroke=3B2A20&strokeWidth=0.5" />
@@ -88,7 +88,7 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:c8a27a,100:6f4e37&height=120&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:90e0ef,100:0077b6&height=120&section=footer" />
 </p>
 
 
