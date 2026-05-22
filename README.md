@@ -57,7 +57,6 @@
   <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" height="40" title="PyTorch"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="40" title="Scikit-learn"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" height="40" title="Pandas"/>
-  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" height="40" title="OpenCV"/>
   <!-- LLM / NLP -->
   <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" height="40" title="Hugging Face"/>
   <!-- Backend / API -->
@@ -66,13 +65,14 @@
   <!-- Data & Infra -->
   <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" height="40" title="Elasticsearch"/>
   <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" height="40" title="Apache Kafka"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" height="40" title="MongoDB"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" height="40" title="SQLite"/>
   <!-- Viz & Dashboard -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/streamlit/streamlit-original.svg" height="40" title="Streamlit"/>
   <!-- DevOps -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" height="40" title="Docker"/>
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" height="40" title="Git"/>
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" height="40" title="Postman"/>
+  <img src="https://cdn.simpleicons.org/termius/c8a27a" height="40" title="Termius"/>
 </p>
 
 ---
