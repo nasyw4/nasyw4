@@ -36,10 +36,10 @@
   <a href="https://linkedin.com/in/nasywaraihanah" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
   </a>
-  <a href="https://kaggle.com/your-kaggle" target="_blank"> <!-- ganti your-kaggle jika ada -->
+  <a href="https://kaggle.com/nasyyy" target="_blank"> <!-- ganti your-kaggle jika ada -->
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" height="30" width="40" />
   </a>
-  <a href="https://instagram.com/your-instagram" target="_blank"> <!-- ganti your-instagram jika ada -->
+  <a href="https://instagram.com/nasy.rhnh" target="_blank"> <!-- ganti your-instagram jika ada -->
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
   </a>
 </p>
@@ -80,10 +80,15 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nasyw4&show_icons=true&theme=gruvbox&hide_border=true&bg_color=00000000&title_color=c8a27a&icon_color=6f4e37&text_color=c8a27a" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nasyw4&layout=compact&theme=gruvbox&hide_border=true&bg_color=00000000&title_color=c8a27a&text_color=c8a27a" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=nasyw4&show_icons=true&theme=gruvbox&hide_border=true&title_color=c8a27a&icon_color=6f4e37&text_color=c8a27a&bg_color=1a1a1a" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nasyw4&layout=compact&theme=gruvbox&hide_border=true&title_color=c8a27a&text_color=c8a27a&bg_color=1a1a1a" height="160"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nasyw4&theme=dark&hide_border=true&ring=c8a27a&fire=6f4e37&currStreakLabel=c8a27a&background=1a1a1a" />
 </p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:c8a27a,100:6f4e37&height=120&section=footer" />
 </p>
+
+
