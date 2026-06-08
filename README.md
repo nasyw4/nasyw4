@@ -80,8 +80,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nasyw4&show_icons=true&theme=gruvbox&hide_border=true&title_color=90e0ef&icon_color=0077b6&text_color=90e0ef&bg_color=1a1a1a" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nasyw4&layout=compact&theme=gruvbox&hide_border=true&title_color=90e0ef&text_color=90e0ef&bg_color=1a1a1a" height="160"/>
+  <img src="https://github-readme-stats-wine-three-17.vercel.app/api?username=nasyw4&show_icons=true&theme=gruvbox&hide_border=true&title_color=90e0ef&icon_color=0077b6&text_color=90e0ef&bg_color=1a1a1a" height="160"/>
+  <img src="https://github-readme-stats-wine-three-17.vercel.app/api/top-langs/?username=nasyw4&layout=compact&theme=gruvbox&hide_border=true&title_color=90e0ef&text_color=90e0ef&bg_color=1a1a1a" height="160"/>
 </p>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nasyw4&theme=dark&hide_border=true&ring=90e0ef&fire=0077b6&currStreakLabel=90e0ef&background=1a1a1a" />
